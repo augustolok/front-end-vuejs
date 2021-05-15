@@ -3,6 +3,7 @@
     </a></p>
 Parte do back está nesse repositorio ou só  da um click na  img do laravel.
 https://github.com/augustolok/vue-api-rest-laravel/
+    <br>
 # meu-front-vue
 
 ## Project setup
